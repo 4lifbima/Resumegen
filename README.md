@@ -1,7 +1,7 @@
 # ResumeGen
 ReactJS Basic Resume Generator yang akan menghasilkan Resume khusus dalam beberapa menit sesuai kebutuhan Anda. Editor resume langsung.
 
-[Cooming Soon](?) 🚀
+[VISIT WEBSITE](https://resumegen-one.vercel.app/) 🚀
 
 ## 🖥️ Tech Stack
 
